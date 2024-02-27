@@ -1,0 +1,15 @@
+.loginPage
+{
+    maxWidth: 400px;
+    height: 450px;
+    display: flex;
+    flexDirection: column;
+    alignItems: center;
+    justifyContent: center;
+    boxShadow: 10px 10px 20px #ccc;
+    padding: 3px;
+    margin: auto;
+    marginTop: 5px;
+    borderRadius: 10px;
+
+}
