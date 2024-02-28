@@ -14,11 +14,11 @@ also visit [E-commerce_website-using-React-Redux](https://github.com/khushi2706/
 
 ## Screenshots
 
-![Screenshot 1](https://app.gemoo.com/share/image-annotation/621085255793033216?codeId=MlQEAKrk3lVKE&origin=imageurlgenerator)
+![Screenshot 1](https://github.com/archi999/MernProject/blob/main/Screenshot%202024-02-27%20181621.png?raw=true)
 
-![Screenshot 2](https://app.gemoo.com/share/image-annotation/621349185010442240?codeId=M0Bw5Yq0l85ng&origin=imageurlgenerator)
+![Screenshot 2](https://github.com/archi999/MernProject/blob/main/Screenshot%202024-02-28%20114821.png?raw=true)
 
-![Screenshot 3](https://app.gemoo.com/share/image-annotation/621349669024735232?codeId=MpKa7ngLwAnnq&origin=imageurlgenerator)
+![Screenshot 3](https://github.com/archi999/MernProject/blob/main/c2024-02-28%20115117.png?raw=true)
 
 ## Getting Started
 
